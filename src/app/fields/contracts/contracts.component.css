@@ -1,0 +1,21 @@
+.input-group-addon{
+    background: rgba(26, 26, 27, 0.712);
+    padding-left: 10px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.fa-dollar{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 10px;
+    position: relative;
+    top: 6px;
+    
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.btnbtn-default{
+    border-radius: 20px;
+}
